@@ -23,3 +23,5 @@
 {"level":"error","message":"'Error registering user':SequelizeUniqueConstraintError: Validation error","timestamp":"2024-09-18T16:31:56.485Z"}
 {"level":"error","message":"'Error registering user':SequelizeUniqueConstraintError: Validation error","timestamp":"2024-09-18T16:32:03.971Z"}
 {"level":"error","message":"'Error registering user':SequelizeUniqueConstraintError: Validation error","timestamp":"2024-09-18T16:32:23.587Z"}
+{"level":"info","message":"Server is running at http://localhost:3000","timestamp":"2024-09-18T17:11:59.298Z"}
+{"level":"info","message":"Server is running at http://localhost:3000","timestamp":"2024-09-18T17:27:16.371Z"}
