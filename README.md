@@ -12,3 +12,6 @@ flowchart TD
     B -->|Sends Response| A
 
     AA[prince thursty]-->BB[take waterbottle]
+    BB-->|pani bharne| CC[filter]
+    CC-->|pani bhara fir piya| AA
+    BB-->|bottle me pahle se pani tha to pi liya| BB
