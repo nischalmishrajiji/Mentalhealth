@@ -15,7 +15,7 @@ const port = process.env.PORT || 3000;
 
 // CORS configuration
 const corsOptions = {
-  origin: 'http://192.168.0.6:4000', // URL of your React app
+  origin: 'http://localhost:4000', // URL of your React app
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   credentials: true, // Allow credentials if needed (e.g., cookies)
 };
