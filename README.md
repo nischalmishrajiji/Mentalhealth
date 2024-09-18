@@ -1,7 +1,7 @@
 # Mentalhealth
 
-- To start the server :  node app.js
-- Add your system ip in .env file
+-To start the server :  node app.js
+-Add your system ip in .env file
 
 ```mermaid
 flowchart TD
