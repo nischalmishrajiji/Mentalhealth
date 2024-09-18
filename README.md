@@ -1,4 +1,6 @@
 # Mentalhealth
+
+To start the server :  node app.js
 ```mermaid
 flowchart TD
     A[User Request] -->|Makes Request| B[Route]
