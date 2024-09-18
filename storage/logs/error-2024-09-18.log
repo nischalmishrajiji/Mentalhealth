@@ -1,0 +1,1 @@
+{"level":"error","message":"'Error registering user':SequelizeUniqueConstraintError: Validation error","timestamp":"2024-09-18T06:19:48.485Z"}

@@ -1,0 +1,14 @@
+{"level":"info","message":"Server is running at http://localhost:3000","timestamp":"2024-09-18T05:22:54.798Z"}
+{"level":"info","message":"Server is running at http://localhost:3000","timestamp":"2024-09-18T05:24:22.220Z"}
+{"level":"info","message":"Server is running at http://localhost:3000","timestamp":"2024-09-18T06:09:55.193Z"}
+{"level":"info","message":"Server is running at http://localhost:3000","timestamp":"2024-09-18T06:15:04.003Z"}
+{"level":"info","message":"Server is running at http://localhost:3000","timestamp":"2024-09-18T06:19:40.265Z"}
+{"level":"error","message":"'Error registering user':SequelizeUniqueConstraintError: Validation error","timestamp":"2024-09-18T06:19:48.485Z"}
+{"level":"info","message":"Server is running at http://localhost:3000","timestamp":"2024-09-18T06:28:49.374Z"}
+{"level":"info","message":"Server is running at http://localhost:3000","timestamp":"2024-09-18T06:50:00.237Z"}
+{"level":"info","message":"Server is running at http://localhost:3000","timestamp":"2024-09-18T06:55:19.158Z"}
+{"level":"info","message":"Server is running at http://localhost:3000","timestamp":"2024-09-18T06:57:20.104Z"}
+{"level":"info","message":"Server is running at http://localhost:80","timestamp":"2024-09-18T07:15:40.851Z"}
+{"level":"info","message":"Server is running at http://localhost:80","timestamp":"2024-09-18T07:17:05.447Z"}
+{"level":"info","message":"Server is running at http://localhost:3000","timestamp":"2024-09-18T07:18:30.401Z"}
+{"level":"info","message":"Server is running at http://localhost:3000","timestamp":"2024-09-18T07:23:26.019Z"}
