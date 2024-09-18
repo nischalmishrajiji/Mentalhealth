@@ -10,3 +10,6 @@ flowchart TD
     E --> D
     D -->|Returns Response| B
     B -->|Sends Response| A
+
+flowchart test
+    A[prince thursty]-->B[take waterbottle]
