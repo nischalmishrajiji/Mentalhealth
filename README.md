@@ -11,5 +11,4 @@ flowchart TD
     D -->|Returns Response| B
     B -->|Sends Response| A
 
-flowchart LR
-    A[prince thursty]-->B[take waterbottle]
+    AA[prince thursty]-->BB[take waterbottle]
