@@ -1,4 +1,8 @@
 # Mentalhealth
+
+- To start the server :  node app.js
+- Add your system ip in .env file
+
 ```mermaid
 flowchart TD
     A[User Request] -->|Makes Request| B[Route]
