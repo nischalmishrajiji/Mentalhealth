@@ -25,7 +25,7 @@ async function login(req, res) {
     if (!bcrypt.compareSync(password, user.password)) return res.status(403).send('Invalid password');
 
     const accessToken = jwt.sign({  id: user.id, username: user.username }, process.env.ACCESS_TOKEN_SECRET, { expiresIn: '1h' });
-    res.json({ accessToken });
+    res.json({ accessToken, userId: user.id  });
   } catch (err) {
     res.status(500).send('Error logging in');
   }
